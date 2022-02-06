@@ -1,0 +1,16 @@
+#부술 블록 (기본값 : GREEN_WOOL)
+#변경시 대문자로 적으셔야 합니다. (Material 값으로 변환하기 위함)
+#초록색 양털 = GREEN_WOOL, 유리 = GRASS_BLOCK . . .
+Block: GREEN_WOOL
+
+
+
+
+
+
+###--------------------------변경 할 수 없음.
+#게임 진행 상태 (기본값 false)
+Game: false
+
+#진행할 플레이어 (기본값 null)
+Player:
